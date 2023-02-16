@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: ĐỖ Tiến ĐẠt 
+* Student Name: Đỗ Tiến Đạt 
 * Student ID: BI12-080
 
